@@ -12,3 +12,7 @@
 ## Bias
 
 * [Lawmakers can't ignore facial recognition bias anymore](https://www.wired.com/story/amazon-facial-recognition-congress-bias-law-enforcement/?mbid=social_twitter_onsiteshare) - references recent (~July 2018) ACLU audit of Amazon's facial recognition system that's being marketed to law enforcement (among others). Connects with larger issues of how the errors it makes are inequitably distributed across race (40% of errors were for people of color). Also includes references to arguments about whether human checks are sufficient (people can over-rely on algorithms, may not know to change the default settings, etc.).
+
+## Input/Training Data
+
+* [IBM Watson Reportedly Recommended Cancer Treatments That Were 'Unsafe and Incorrect'](https://gizmodo.com/ibm-watson-reportedly-recommended-cancer-treatments-tha-1827868882) - Reports on internal IBM documents that suggest Watson has made poor treatment recommendations; there is speculation that this was caused by "synthetic" training data about hypothetical patients; not real-world cases. 
