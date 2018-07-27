@@ -21,6 +21,10 @@ Fall 2018, Kelly M. Hoffman, University of Maryland College Park
 
 ## Week 10: Privacy & Security
 
+### Just for Fun: 
+
+* [Welcome to Vanguard Estates](https://datasociety.net/wp-content/uploads/2018/06/rose_vanguard-estates.pdf) - A Choose-Your-Own-Adventure-style story. How much do you trust robots to take care of your elderly father? 
+
 ## Week 11: Data, Data, Everywhere
 
 ## Week 12: Dealing With Data
