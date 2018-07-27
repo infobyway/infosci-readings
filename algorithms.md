@@ -7,6 +7,7 @@
 * [The Nim Game](http://www.archimedes-lab.org/game_nim/nim.html#) - The computer always beats humans... because it uses an algorithm. 
 * Human Resource Machine
 * [How to teach yourself about algorithms](http://www.slate.com/articles/technology/future_tense/2016/02/how_to_teach_yourself_about_algorithms.html) (2016, Slate)
+* [Asking the right questions about AI](https://medium.com/@yonatanzunger/asking-the-right-questions-about-ai-7ed2d9820c48) - really nice accessible explainer for AI, starting with intuition about what it is, what it's good/bad for, and how it intersects with classes of ethical issues (e.g., bias, whether you're optimizing for the right criterion, opacity)
 
 ## Bias
 
