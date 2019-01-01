@@ -16,6 +16,7 @@
 ## Bias
 
 * [Lawmakers can't ignore facial recognition bias anymore](https://www.wired.com/story/amazon-facial-recognition-congress-bias-law-enforcement/?mbid=social_twitter_onsiteshare) - references recent (~July 2018) ACLU audit of Amazon's facial recognition system that's being marketed to law enforcement (among others). Connects with larger issues of how the errors it makes are inequitably distributed across race (40% of errors were for people of color). Also includes references to arguments about whether human checks are sufficient (people can over-rely on algorithms, may not know to change the default settings, etc.).
+- [Is the Government Really in Control of Its Algorithms?](https://medium.com/s/story/is-the-government-really-in-control-of-its-algorithms-6d5e1781bed2) - a high-level look at algorithmic impact and transparency (or lack thereof); uses a custody case in Florida for illustration.
 
 ## Input/Training Data
 
