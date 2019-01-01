@@ -13,6 +13,7 @@
 
 * [Welcome to Vanguard Estates](https://datasociety.net/wp-content/uploads/2018/06/rose_vanguard-estates.pdf) - A Choose-Your-Own-Adventure-style story. How much do you trust robots to take care of your elderly father? 
 * **[Is This AI? We Drew You a Flowchart To Work It Out](https://www.technologyreview.com/s/612404/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/) | 2018-11-10 | Karan Hao, _MIT Technology Review_**<br/>A brief walkthrough for determining whether an application is actually AI. 
+- **[AI-Driven Dermatology Could Leave Dark-Skinned Patients Behind](https://www.theatlantic.com/health/archive/2018/08/machine-learning-dermatology-skin-color/567619/) | 2018-08-16 | Angela Lashbrook, _The Atlantic_**
 
 ## Bias
 
