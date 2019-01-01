@@ -6,4 +6,4 @@
 
 ## Internet of Things
 
-- ** [This Thermometer Tells Your Temperature, Then Tells Firms Where to Advertise](https://www.nytimes.com/2018/10/23/business/media/fever-advertisements-medicine-clorox.html) | 2018-10-23 | Sapna Maheshwari, _New York Times_**
+- **[This Thermometer Tells Your Temperature, Then Tells Firms Where to Advertise](https://www.nytimes.com/2018/10/23/business/media/fever-advertisements-medicine-clorox.html) | 2018-10-23 | Sapna Maheshwari, _New York Times_**
