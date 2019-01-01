@@ -12,7 +12,7 @@
 ## Artificial Intelligence
 
 * [Welcome to Vanguard Estates](https://datasociety.net/wp-content/uploads/2018/06/rose_vanguard-estates.pdf) - A Choose-Your-Own-Adventure-style story. How much do you trust robots to take care of your elderly father? 
-* **[Is This AI? We Drew You a Flowchart To Work It Out](https://www.technologyreview.com/s/612404/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/) | 2018-11-10 | Karan Hao, _MIT Technology Review_**
+* **[Is This AI? We Drew You a Flowchart To Work It Out](https://www.technologyreview.com/s/612404/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/) | 2018-11-10 | Karan Hao, _MIT Technology Review_**<br/>A brief walkthrough for determining whether an application is actually AI. 
 
 ## Bias
 
